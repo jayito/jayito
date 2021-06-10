@@ -9,9 +9,9 @@
 
 ### STATUS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasechi&custom_title="Top Languages"&title_color=baf14f&text_color=76d285&theme=dark)](https://github.com/mathiasechi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasechi&title_color=baf14f&text_color=76d285&theme=dark)](https://github.com/mathiasechi/github-readme-stats)
 
-![Mathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiasechi&show_icons=true&custom_title="Current Status"&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark)
+![Mathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiasechi&show_icons=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark)
 <!---
 mathiasechi/mathiasechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

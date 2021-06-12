@@ -16,7 +16,6 @@ I'm a professinal developer with BlockChain | DApp | Smart | Contract | Web3.js 
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab" />
     <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
-  </p>
   </div>
   <div align="right">
     <img alt="status" src="https://github-readme-stats.vercel.app/api?username=mathiasechi&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />

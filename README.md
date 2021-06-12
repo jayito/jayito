@@ -11,7 +11,7 @@ I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | 
 <h2>Languages & Status</h2>
 
 
-<p align="right" with="40%">
+<p align="right" width="40%">
   <img alt="status" src="https://github-readme-stats.vercel.app/api?username=mathiasechi&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
 </p>
 

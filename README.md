@@ -6,6 +6,11 @@ I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | 
 
 
 
+
+
+
+<h2>Languages & Status</h2>
+
 <p align="right">
   <img alt="status" src="https://github-readme-stats.vercel.app/api?username=mathiasechi&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
 </p>
@@ -13,7 +18,7 @@ I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | 
 
 <div>
   <a href="https://github.com/mathiasechi">
-    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white" />
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
   </a>
   <a href="https://github.com/mathiasechi">
     <img alt="Solidity" src="https://github.com/mathiasechi/mathiasechi/blob/main/icons/solidity.png" />
@@ -38,19 +43,19 @@ I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | 
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
   </a>
   <a href="https://github.com/mathiasechi">
-    <img alt="react.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
+    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
   </a>
   <a href="https://github.com/mathiasechi">
-    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   </a>
   <a href="https://github.com/mathiasechi">
-    <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
   </a>
   <a href="https://github.com/mathiasechi">
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
   </a>
   <a href="https://github.com/mathiasechi">
-    <img alt="Nodejs" src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-80a50e?style=flat&logoColor=white" />
   </a>
   <a href="https://github.com/mathiasechi">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
@@ -72,7 +77,7 @@ I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | 
 </div>
 <div>
   <a href="https://github.com/mathiasechi">
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=flat&logo=mysql&logoColor=white" />
   </a>
   <a href="https://github.com/mathiasechi">
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />

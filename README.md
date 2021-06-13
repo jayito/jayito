@@ -1,4 +1,4 @@
-<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mathins</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> , I'm Mathins</h1>
 <p align="left">
 Nice to meet you! 🤗 <br/>
 I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEAN.
@@ -11,7 +11,7 @@ I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | 
 <h2>Languages & Status</h2>
 
 
-<p align="right" width="40%">
+<p align="right">
   <img alt="status" src="https://github-readme-stats.vercel.app/api?username=mathiasechi&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
 </p>
 
@@ -35,7 +35,7 @@ I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | 
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
   </a>
   <a href="https://github.com/mathiasechi">
-    <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   </a>
 </div>
 <div>
@@ -66,7 +66,7 @@ I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | 
 </div>
 <div>
   <a href="https://github.com/mathiasechi">
-    <img alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
+    <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
   </a>
   <a href="https://github.com/mathiasechi">
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
@@ -97,15 +97,26 @@ I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | 
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
   </a>
   <a href="https://github.com/mathiasechi">  
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   </a>
   <a href="https://github.com/mathiasechi">  
-    <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab" />
+    <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab" />
   </a>
   <a href="https://github.com/mathiasechi">  
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+    <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
   </a>
   <a href="https://github.com/mathiasechi">  
-    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+    <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  </a>
+</div>
+
+
+<h2>Contact me</h2>
+<div>
+  <a href="mail:mathinsejay@gmail.com">  
+    <img alt="Gmail actions" src="https://github.com/mathiasechi/mathiasechi/blob/main/icons/gmail.png" />
+  </a>
+  <a href="skype:mathinsejay@gmail.com">  
+    <img alt="Skype actions" src="https://github.com/mathiasechi/mathiasechi/blob/main/icons/skype.png" />
   </a>
 </div>

@@ -113,10 +113,10 @@ I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | 
 
 <h2>Contact me</h2>
 <div>
-  <a href="mail:mathinsejay@gmail.com">  
+  <a href="mailto:mathinsejay@gmail.com">  
     <img alt="Gmail actions" src="https://github.com/mathiasechi/mathiasechi/blob/main/icons/gmail.png" width="30" align="left"/>
   </a>
-  <a href="skype:mathinsejay@gmail.com">  
+  <a href="skype:mathinsejay@gmail.com?chat">  
     <img alt="Skype actions" src="https://github.com/mathiasechi/mathiasechi/blob/main/icons/skype.png" width="30" align="left"/>
   </a>
 </div>

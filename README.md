@@ -109,14 +109,3 @@ I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | 
     <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
   </a>
 </div>
-
-
-<h2>Contact me</h2>
-<div>
-  <a href="mailto:mathinsejay@gmail.com">  
-    <img alt="Gmail actions" src="https://github.com/mathiasechi/mathiasechi/blob/main/icons/gmail.png" width="30" align="left"/>
-  </a>
-  <a href="skype:mathinsejay?chat">  
-    <img alt="Skype actions" src="https://github.com/mathiasechi/mathiasechi/blob/main/icons/skype.png" width="30" align="left"/>
-  </a>
-</div>

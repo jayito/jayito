@@ -1,7 +1,7 @@
 <h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Jay</h1>
 <p align="left">
 Nice to meet you! 🤗 <br/>
-I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEAN.
+I'm a professinal developer with BlockChain | DApp | Smart Contract | NFT | WAX | HIVE | Solidity | Rust | Web3.js | MERN | MEAN.
 </p>
 
 
